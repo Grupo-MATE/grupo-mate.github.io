@@ -18,13 +18,17 @@ permalink: /team/
 </div>
 <div class="col-sm-9 col-xs-12">
 <h4>{{ member.name }}</h4>
-<i>{{ member.info }}</i><br>
+<i>{{ member.info }}</i><br />
+{% if member.bio %}
+{{member.bio}}
+{% endif %}
 
 {% if member.website %}<a href="{{ member.website }}" target="_blank"><i class="fa fa-home fa-2x"></i></a> {% endif %} {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a> {% endif %} {% if member.scholar %} <a href="{{ member.scholar }}" target="_blank"><i class="ai ai-google-scholar-square ai-2x"></i></a> {% endif %} {% if member.cv %} <a href="{{ member.cv }}" target="_blank"><i class="ai ai-cv-square ai-2x"></i></a> {% endif %} {% if member.github %} <a href="{{ member.github }}" target="_blank"><i class="fa fa-github-square fa-2x"></i></a> {% endif %} {% if member.researchgate %} <a href="{{ member.researchgate }}" target="_blank"><i class="ai ai-researchgate-square ai-2x"></i></a> {% endif %}
 
 <ul style="overflow: hidden">
-<li> {{ member.education[0] }} </li>
-<li> {{ member.education[1] }} </li>
+{% for element in member.education %}
+<li> {{ element }} </li>
+{% endfor %}
 </ul>
 </div>
 </div>

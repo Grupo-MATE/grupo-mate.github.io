@@ -1,25 +1,31 @@
 - name: Prof. Fernando Paganini
   photo: paganini.jpg
-  info: Vice dean of research
+  info: Vice-dean of Research and Chair of Telecommunications Theory
+  bio: >
+    A Caltech graduate, his PhD thesis received the 1996 Wilts Prize and the 1996 Clauser Prize at Caltech. From 1996 to 1997 he was a postdoctoral associate at MIT. Between 1997 and 2005 he was on the faculty the Electrical Engineering Department at UCLA, reaching the rank of Associate Professor. Since 2005 he is Professor of Electrical and Telecommunications Engineering at Universidad ORT Uruguay, and currently Vice-Dean of Research.   Dr. Paganini has received the 1995 O. Hugo Schuck Best Paper Award, the 1999 Packard Fellowship, the 2004 George S. Axelby Best Paper Award. He is a member of the Uruguayan National Academy of Sciences, the Uruguayan National Academy of Engineering, and the Latin American Academy of Sciences. During the pandemic he served in Uruguay as one of three coordinators of the Honorary Scientific Advisory Group on Covid-19, receiving after the Presidency of the Republic Award. He is a Fellow of the IEEE (2014) and a Fellow of IFAC (2023). His research interests are control and networks.
+
   email: paganini@ort.edu.uy
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+  scholar: https://scholar.google.com/citations?user=uF7svsoAAAAJ
   cv: cv/cv.pdf
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(1942) Ph.D. Physics, Princeton University",
-      "(1939) B.S. Physics, Massachusetts Institute of Technology",
+      "(1996) Ph.D. Electrical Engineering, Caltech",
+      "(1992) MS. Electrical Engineering, Caltech",
+      "(1990) B.S. Electrical Engineering, Universidad de la República",
+      "(1990) B.S. Mathematics, Universidad de la República",
     ]
-
-  educationshort:
-    ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
 
 - name: Prof. Andres Ferragut
   photo: ferragut.jpg
   info: Chair of Communication Systems and Networks
+  bio: >
+    Applied Mathematician by trade, Electrical Engineer by training and Computer Scientist as hobbyist. Most of my research consists on the application of mathematical models to manage congestion and resource allocation in complex networked systems, such as the Internet or Energy Networks. My focus is on Probability, Stochastic Processes and Queueing Theory, and I'm also a fan of Convex Optimization, Dynamic programming, Control Theory and Probability and Statistics in general. I've been an Editor for IEEE/ACM Transactions on Networking (2016-2020) and co-TPC Chair of Valuetools'20. I am categorized as Level II Researcher by the National Research System (SNI) and I am also part of PEDECIBA-Matemática. Since 2021 I've been part of the Technical Area Committee for Engineering in the SNI.
+    During 2020-2021, I was drafted into the National Covid Response Task Force (GACH) together with many scientists, in the data analysis and modeling team. This was an awesome experience that really made a contribution in handling the pandemic in Uruguay, and I learned a lot from it.
   email: ferragut@ort.edu.uy
   github: https://github.com/aferragu
   scholar: https://scholar.google.com/citations?user=W93dcfkAAAAJ
+  website: https://aferragu.github.io
   cv: cv/cv.pdf
   # Change the items in "education" you have (up to 6)
   education:
@@ -27,6 +33,3 @@
       "(2011) Ph.D. Electrical Engineering, Universidad de la Republica, Uruguay",
       "(2004) B.S. Telecommunications Engineering, Universidad de la Republica, Uruguay",
     ]
-
-  educationshort:
-    ["(2011) Ph.D. Elec. Engineering"]

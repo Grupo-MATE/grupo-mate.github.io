@@ -15,12 +15,10 @@ affiliation: >
   Mathematics Applied to Telecommunications and Energy Research Group
 
 location: >
-  Universidad ORT Uruguay<br />
-  Facultad de Ingeniería<br />
-  Montevideo,Uruguay
+  Universidad ORT Uruguay, Facultad de Ingeniería, Montevideo,Uruguay
 
 contact: >
-  <a href="mailto:ferragut@ort.edu.uy" target="_blank"><i class="fa fa-envelope fa-1x"></i>Contact</a> <br/>
+  <a href="mailto:ferragut@ort.edu.uy" target="_blank">Contact us <i class="fa fa-envelope fa-1x"></i></a>
 
 # Pages shown in navbar
 nav_pages:
