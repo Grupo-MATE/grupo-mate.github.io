@@ -32,7 +32,7 @@ permalink: /team/
 
 {% endfor %}
 
-<h3 class="text-right">Current students and postdocs</h3>
+<h3 class="text-right">Research Staff</h3>
 
 <div class='jumbotron'>
 {% assign number_printed = 0 %}
@@ -78,7 +78,7 @@ permalink: /team/
 {% endif %}
 </div>
 
-<h3 class="text-right">Alumni</h3>
+<!-- <h3 class="text-right">Alumni</h3>
 
 <div class="jumbotron">
 {% assign number_printed = 0 %}
@@ -114,5 +114,5 @@ permalink: /team/
 
 </div>
 {% endif %}
-</div>
+</div> -->
 
