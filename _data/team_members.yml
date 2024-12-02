@@ -1,5 +1,11 @@
+- name: Matias Carrasco
+  photo: carrasco.jpg
+  info: Researcher
+  email: carrasco_m@ort.edu.uy
+  website: https://sites.google.com/view/matias-carrasco/home
+
 - name: Diego Goldsztajn
-  photo: rock.jpg
-  info: Postdoc, started Dec 2024
+  photo: goldsztajn.jpg
+  info: Postdoc, starts Dec 2024
   email: diegogolds@gmail.com
-  website: 
+  website: https://sites.google.com/view/diegogoldsztajn/home
