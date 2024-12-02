@@ -6,7 +6,7 @@
 
   email: paganini@ort.edu.uy
   scholar: https://scholar.google.com/citations?user=uF7svsoAAAAJ
-  cv: cv/cv.pdf
+  #cv: cv/cv.pdf
   # Change the items in "education" you have (up to 6)
   education:
     [
@@ -26,7 +26,7 @@
   github: https://github.com/aferragu
   scholar: https://scholar.google.com/citations?user=W93dcfkAAAAJ
   website: https://aferragu.github.io
-  cv: cv/cv.pdf
+  #cv: cv/cv.pdf
   # Change the items in "education" you have (up to 6)
   education:
     [

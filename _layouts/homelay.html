@@ -3,8 +3,9 @@ layout: default
 ---
 
   <div id="homeid" class="col-sm-9 col-xs-12">
+    <div class="jumbotron">
 	  {{ content }}
-
+    </div>
     <div class="jumbotron">
       <h4>News</h4>
     
@@ -13,7 +14,7 @@ layout: default
         <p>{{ article.headline }}</p>
       {% endfor %}
       
-      <h5><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h5>
+      <a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a>
     
     </div>
 
