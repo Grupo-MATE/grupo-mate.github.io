@@ -5,7 +5,7 @@ sitemap: false
 permalink: /
 ---
 
-## Mathematics Applied to Telecommunicaitons and Energy Research Group
+## Mathematics Applied to Telecommunications and Energy Research Group
 
 Our group is focused on the applications of several areas of mathematics to the solution of problems that arise in comples network systems, such as the Internet or the energy grid. With a strong background in Control, Optimization, Probability, Stochastic Processes and Queueing theory, we tackle these problems through an interdisciplinary approach, combining solid mathematical models with engineering insights, and devise new algorithms to test in practical systems.
 
