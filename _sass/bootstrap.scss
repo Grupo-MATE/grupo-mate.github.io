@@ -4630,8 +4630,8 @@ input[type="button"].btn-block {
   display: inline-block;
   padding-top: 0.32421875rem;
   padding-bottom: 0.32421875rem;
-  margin-right: 1rem;
-  font-size: 1.171875rem;
+  margin-right: 4rem;
+  font-size: 2em;
   line-height: inherit;
   white-space: nowrap;
 }
@@ -4656,6 +4656,7 @@ input[type="button"].btn-block {
 .navbar-nav .nav-link {
   padding-right: 0;
   padding-left: 0;
+  font-size:1.2em;
 }
 
 .navbar-nav .dropdown-menu {
