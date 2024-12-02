@@ -1,9 +1,7 @@
 - name: Prof. Fernando Paganini
-  photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
+  photo: paganini.jpg
+  info: Vice dean of research
+  email: paganini@ort.edu.uy
   scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
   cv: cv/cv.pdf
   # Change the items in "education" you have (up to 6)
@@ -17,19 +15,18 @@
     ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
 
 - name: Prof. Andres Ferragut
-  photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+  photo: ferragut.jpg
+  info: Chair of Communication Systems and Networks
+  email: ferragut@ort.edu.uy
+  github: https://github.com/aferragu
+  scholar: https://scholar.google.com/citations?user=W93dcfkAAAAJ
   cv: cv/cv.pdf
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(1942) Ph.D. Physics, Princeton University",
-      "(1939) B.S. Physics, Massachusetts Institute of Technology",
+      "(2011) Ph.D. Electrical Engineering, Universidad de la Republica, Uruguay",
+      "(2004) B.S. Telecommunications Engineering, Universidad de la Republica, Uruguay",
     ]
 
   educationshort:
-    ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
+    ["(2011) Ph.D. Elec. Engineering"]

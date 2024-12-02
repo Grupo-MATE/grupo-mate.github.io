@@ -5,18 +5,18 @@ sitemap: false
 permalink: /team/
 ---
 
-## Team
+# Our Team
 
-**We are looking for new team members** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+<!-- **We are looking for new team members** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** -->
 
-## PI
+## Senior researchers
 
 {% for member in site.data.pi %}
 
 <div class="jumbotron">
 <div class="row">
 <div class="col-sm-2">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="100%" style="max-width:250px"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ member.photo }}" width="100%" style="max-width:250px"/>
 </div>
 <div class="col-sm-9 col-xs-12">
 <h4>{{ member.name }}</h4>
@@ -34,6 +34,8 @@ permalink: /team/
 
 {% endfor %}
 
+## Members
+
 ## Current Students and Postdocs
 
 <div class='jumbotron'>
@@ -48,7 +50,7 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-2">
-<img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="100%" style="max-width:250px"/>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ member.photo }}" width="100%" style="max-width:250px"/>
 </div>
 <div class="col-sm-4 col-xs-12">
   <h4>{{ member.name }}</h4>
@@ -80,7 +82,7 @@ permalink: /team/
 {% endif %}
 </div>
 
-## Alumni
+### Alumni
 
 <div class="jumbotron">
 {% assign number_printed = 0 %}
@@ -94,7 +96,7 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-2">
-<img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="100%" style="max-width:250px"/>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ member.photo }}" width="100%" style="max-width:250px"/>
 </div>
 <div class="col-sm-4 col-xs-12">
   <h4>{{ member.name }}</h4>
@@ -118,6 +120,3 @@ permalink: /team/
 {% endif %}
 </div>
 
-## Administrative Support
-
-<a href="exampleemail@gmail.com">Example staff</a> is helping us (and other groups) with administration.
