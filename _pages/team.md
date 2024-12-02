@@ -6,12 +6,12 @@ permalink: /team/
 ---
 
 <!-- **We are looking for new team members** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** -->
-
+<h2>Our team...</h2>
 <h3 class="text-right">Senior members</h3>
 
 {% for member in site.data.pi %}
 
-<div class="jumbotron shadow-lg">
+<div class="jumbotron shadow">
 <div class="row">
 
 <div class="col-sm-2">
@@ -37,7 +37,7 @@ permalink: /team/
 
 <h3 class="text-right">Research Staff</h3>
 
-<div class='jumbotron'>
+<div class='jumbotron shadow'>
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
