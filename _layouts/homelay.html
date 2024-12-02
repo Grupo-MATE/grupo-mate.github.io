@@ -2,10 +2,26 @@
 layout: default
 ---
 
-  <div id="homeid" class="col-sm-10 col-xs-12">
+  <div id="homeid" class="col-sm-9 col-xs-12">
 	{{ content }}
+
+  <div class="jumbotron">
+    <h4>News</h4>
+  
+    {% for article in site.data.news limit:3 %}
+    <b>{{ article.date }}</b>
+      <p>{{ article.headline }}</p>
+    {% endfor %}
+    
+    <h5><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h5>
+  
+  </div>
+
+
   </div>
   
-  <div id="newsid" class="col-sm-2 col-xs-12" >
+  <div id="newsid" class="col-sm-3 col-xs-12" >
 	{% include sidebar.html %}
   </div>
+
+  

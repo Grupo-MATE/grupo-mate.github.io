@@ -5,15 +5,13 @@ sitemap: false
 permalink: /team/
 ---
 
-# Our Team
-
 <!-- **We are looking for new team members** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** -->
 
-## Senior researchers
+<h3 class="text-right">Senior members</h3>
 
 {% for member in site.data.pi %}
 
-<div class="jumbotron">
+<div class="jumbotron shadow-lg">
 <div class="row">
 <div class="col-sm-2">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ member.photo }}" width="100%" style="max-width:250px"/>
@@ -34,9 +32,7 @@ permalink: /team/
 
 {% endfor %}
 
-## Members
-
-## Current Students and Postdocs
+<h3 class="text-right">Current students and postdocs</h3>
 
 <div class='jumbotron'>
 {% assign number_printed = 0 %}
@@ -82,7 +78,7 @@ permalink: /team/
 {% endif %}
 </div>
 
-### Alumni
+<h3 class="text-right">Alumni</h3>
 
 <div class="jumbotron">
 {% assign number_printed = 0 %}
