@@ -4,18 +4,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
 <nav class="navbar sticky-top navbar-expand-md navbar-dark bg-dark">
+    <a href="https://fi.ort.edu.uy/"><img src="/assets/img/logo-ort-blanco.png" height="48px"/></a>
     <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">
-     <img src="{{ site.url }}{{ site.baseurl }}/assets/img/logo.png" width="48" height="48" style="margin-right:10px" class="d-inline-block align-top" alt="">
+     <img src="{{ site.url }}{{ site.baseurl }}/assets/img/logo.png" width="48" height="48" style="margin-left:15px; margin-right:15px" class="d-inline-block align-top" alt="" />
       {{ site.title | escape }}
     </a>
     <button class="toggler navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
 
-    <div class="text-right" style="margin:1em"><a href="https://fi.ort.edu.uy/"><img src="/assets/img/logo-ort-blanco.png" height="48px"/></a></div>
-
     <div class="collapse navbar-collapse" id="navbarColor02">
-        <div class="navbar-nav ml-auto">
+        <div class="navbar-nav ml-auto" style="margin-right:1em">
             <a class="nav-item nav-link" href="{{ site.url }}{{ site.baseurl }}/">Home</a>
             {% for page in site.nav_pages %}       
                 <a class="nav-item nav-link" href="{{ site.url }}{{ site.baseurl }}/{{page.name}}">{{page.name | capitalize }}</a>

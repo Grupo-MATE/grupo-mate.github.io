@@ -11,14 +11,8 @@ url: ""
 # google_tag_manager: XXX
 
 # Footer info
-affiliation: >
-  Mathematics Applied to Telecommunications and Energy Research Group
-
-location: >
-  Universidad ORT Uruguay, Facultad de Ingeniería, Montevideo,Uruguay
-
-contact: >
-  <a href="mailto:ferragut@ort.edu.uy" target="_blank">Contact us <i class="fa fa-envelope fa-1x"></i></a>
+contact_info: >
+  Grupo MATE - Universidad ORT Uruguay - Facultad de Ingeniería - <a href="mailto:ferragut@ort.edu.uy" target="_blank">Contact us <i class="fa fa-envelope fa-1x"></i></a>
 
 # Pages shown in navbar
 nav_pages:

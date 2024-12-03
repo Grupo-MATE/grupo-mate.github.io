@@ -3,21 +3,20 @@ layout: default
 ---
 
   <div id="homeid" class="col-sm-9 col-xs-12">
-    <div class="jumbotron">
 	  {{ content }}
-    </div>
-    <div class="jumbotron">
-      <h4>News</h4>
+
+    <hr />
+
+    <h4>Recent news</h4>
     
-      {% for article in site.data.news limit:3 %}
+      {% for article in site.data.news limit:5 %}
       <b>{{ article.date }}</b>
         <p>{{ article.headline }}</p>
       {% endfor %}
       
       <a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a>
     
-    </div>
-
+    
 
   </div>
   
