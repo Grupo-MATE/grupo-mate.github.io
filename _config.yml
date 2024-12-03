@@ -6,9 +6,9 @@ baseurl: ""
 url: ""
 
 # Google analytics ID: Uncomment and your own, if you like
-# google_analytics: XX
-# google_analytics_4: XXX
-# google_tag_manager: XXX
+google_analytics: G-NE789J64TN
+google_analytics_4: G-NE789J64TN
+google_tag_manager: G-NE789J64TN
 
 # Footer info
 contact_info: >
