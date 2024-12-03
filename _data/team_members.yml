@@ -3,12 +3,18 @@
   info: Researcher.
   email: carrasco_m@ort.edu.uy
   website: https://sites.google.com/view/matias-carrasco/home
+  bio: >
+   He received his Bachelor's (2005) and Master's (2008) degrees in Mathematics from Universidad de la República, Uruguay. He obtained his Doctorat en Mathématiques from Aix-Marseille Université in 2011. He has held postdoc positions at the Universitat de Barcelona (2012) and Université Paris-Sud Orsay (2013-2014). Since 2015 he is Profesor Adjunto at the Universidad de la República. During 2017-2019 he was Maître de Conférences Invité at the Université de Lille. Since 2022 he is Docente Investigador at Universidad ORT Uruguay. His research interest are on the interplays between geometry, analysis and probability theory, and more recently in applied probability.
 
 - name: Diego Goldsztajn
   photo: goldsztajn.jpg
   info: Postdoc, starts Dec 2024
   email: diegogolds@gmail.com
   website: https://sites.google.com/view/diegogoldsztajn/home
+  bio: >
+   He received his PhD from the Eindhoven University of Technology in 2023, supervised by Sem Borst and Johan van Leeuwaarden. In 2024, he was awarded an Honorable Mention for his PhD Thesis by ACM Sigmetrics. He was also a Postdoc at INRIA Sophia Antipolis with K. Avrachenkov, and worked previously in Grupo MATE between 2016 and 2019 towards his MSc Degree. He is also a BSc in Math and Engineering. His research interests are fluid and difussion limits for load balancing in networked queueing systems.
+
+
 
 - name: Enrique Briglia
   photo: briglia.jpg
