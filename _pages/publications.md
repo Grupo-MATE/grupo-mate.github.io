@@ -3,13 +3,13 @@ title: "Publications"
 layout: gridlay
 sitemap: false
 permalink: /publications/
-article_years: [2024,2023,2022,2021,2019,2018,2017,2016,2015,2013,2012,2011]
-conference_years: [2024,2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009,2008]
+article_years: [2025,2024,2023,2022,2021,2019,2018,2017,2016,2015,2013,2012,2011]
+conference_years: [2025,2024,2023,2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009,2008]
 ---
 
 <style>
 .jumbotron{
-    padding:3%;
+    padding:2%;
     padding-bottom:10px;
     padding-top:10px;
     margin-top:10px;
