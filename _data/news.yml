@@ -2,8 +2,8 @@
   headline: A. Ferragut was interviewed in the morning TV show <a href="https://www.teledoce.com/programa/desayunos-informales/">Desayunos Informales</a> about the power outages and how can we avoid them.
   
   content: 
-    <div style="padding=2em">
-    <iframe width="80%" height="45%" src="https://www.youtube.com/embed/50ULGWB6ywU?si=PKqGFDYc9gO0sFoe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <div class="container-fluid" style="width:60%;padding:2em">
+    <iframe src="https://www.youtube.com/embed/50ULGWB6ywU?si=PKqGFDYc9gO0sFoe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
 
@@ -11,8 +11,8 @@
   headline: F. Paganini and A. Ferragut were interviewed in the morning radio show <a href="enperspectiva.uy">En Perspectiva</a> to discuss the massive Spain power outages.
   
   content: 
-    <div style="padding:2em">
-    <iframe width="80%" height="45%" src="https://www.youtube.com/embed/QudCrweX4e8?si=e9xKzVIkahxqZMpQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <div class="container-fluid" style="width:60%;padding:2em">
+    <iframe src="https://www.youtube.com/embed/QudCrweX4e8?si=e9xKzVIkahxqZMpQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
 - date: Sep 25, 2024
